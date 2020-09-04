@@ -8,11 +8,11 @@
   </a>
 
   <a href="https://github.com/tabaesso/github_explorer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tabaesso/github_explorerr">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tabaesso/github_explorer">
   </a>
   
   <a href="https://github.com/tabaesso/github_explorer/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tabaesso/github_explorer?style=sociall">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/tabaesso/github_explorer?style=social">
   </a>
   <br/>
   <a alt="Site da aplicação" href="https://tabaesso-githubexplorer-deploy.netlify.app/">
