@@ -14,6 +14,10 @@
   <a href="https://github.com/tabaesso/github_explorer/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/tabaesso/github_explorer?style=social">
   </a>
+  <br/>
+  <a alt="Site da aplicação" href="https://tabaesso-githubexplorer-deploy.netlify.app/">
+  <b>Deploy da aplicação</b>
+  </a>
 </p>
 
 Projeto desenvolvido durante o bootcamp da RocketSeat o GoStack para aprendizado de novos conceitos com ReactJS.<br/>
