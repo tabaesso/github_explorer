@@ -15,7 +15,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/tabaesso/github_explorer?style=social">
   </a>
   <br/>
-  <a alt="Site da aplicação" rel="noopener" target="_blank" href="https://tabaesso-githubexplorer-deploy.netlify.app/">
+  <a alt="Site da aplicação" target="_blank" href="https://tabaesso-githubexplorer-deploy.netlify.app/">
   <b>Deploy da aplicação</b>
   </a>
 </p>
